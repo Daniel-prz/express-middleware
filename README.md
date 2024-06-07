@@ -36,3 +36,4 @@ Tested route response if parsed json data is returned
 ![/contact](<Screenshot 2024-06-06 214942-1.png>)
 Tested if middleware executed in correct order
 Tested successfully
+![index.js](<Screenshot 2024-06-06 222441.png>)
